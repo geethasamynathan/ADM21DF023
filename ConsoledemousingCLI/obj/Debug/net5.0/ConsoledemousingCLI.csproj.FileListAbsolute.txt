@@ -1,0 +1,16 @@
+H:\Cognizant\ADM21DF023\Core demos\ConsoledemousingCLI\bin\Debug\net5.0\ConsoledemousingCLI.exe
+H:\Cognizant\ADM21DF023\Core demos\ConsoledemousingCLI\bin\Debug\net5.0\ConsoledemousingCLI.deps.json
+H:\Cognizant\ADM21DF023\Core demos\ConsoledemousingCLI\bin\Debug\net5.0\ConsoledemousingCLI.runtimeconfig.json
+H:\Cognizant\ADM21DF023\Core demos\ConsoledemousingCLI\bin\Debug\net5.0\ConsoledemousingCLI.runtimeconfig.dev.json
+H:\Cognizant\ADM21DF023\Core demos\ConsoledemousingCLI\bin\Debug\net5.0\ConsoledemousingCLI.dll
+H:\Cognizant\ADM21DF023\Core demos\ConsoledemousingCLI\bin\Debug\net5.0\ref\ConsoledemousingCLI.dll
+H:\Cognizant\ADM21DF023\Core demos\ConsoledemousingCLI\bin\Debug\net5.0\ConsoledemousingCLI.pdb
+H:\Cognizant\ADM21DF023\Core demos\ConsoledemousingCLI\obj\Debug\net5.0\ConsoledemousingCLI.csproj.AssemblyReference.cache
+H:\Cognizant\ADM21DF023\Core demos\ConsoledemousingCLI\obj\Debug\net5.0\ConsoledemousingCLI.GeneratedMSBuildEditorConfig.editorconfig
+H:\Cognizant\ADM21DF023\Core demos\ConsoledemousingCLI\obj\Debug\net5.0\ConsoledemousingCLI.AssemblyInfoInputs.cache
+H:\Cognizant\ADM21DF023\Core demos\ConsoledemousingCLI\obj\Debug\net5.0\ConsoledemousingCLI.AssemblyInfo.cs
+H:\Cognizant\ADM21DF023\Core demos\ConsoledemousingCLI\obj\Debug\net5.0\ConsoledemousingCLI.csproj.CoreCompileInputs.cache
+H:\Cognizant\ADM21DF023\Core demos\ConsoledemousingCLI\obj\Debug\net5.0\ConsoledemousingCLI.dll
+H:\Cognizant\ADM21DF023\Core demos\ConsoledemousingCLI\obj\Debug\net5.0\ref\ConsoledemousingCLI.dll
+H:\Cognizant\ADM21DF023\Core demos\ConsoledemousingCLI\obj\Debug\net5.0\ConsoledemousingCLI.pdb
+H:\Cognizant\ADM21DF023\Core demos\ConsoledemousingCLI\obj\Debug\net5.0\ConsoledemousingCLI.genruntimeconfig.cache
